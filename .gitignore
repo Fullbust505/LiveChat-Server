@@ -34,3 +34,6 @@ build/
 
 #Le sujet
 Projet_Messagerie_Instantanee.pdf
+
+# Certificat TLS auto-signé (regénurable : keytool, voir application.properties)
+keystore.p12
